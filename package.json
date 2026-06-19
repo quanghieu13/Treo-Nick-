@@ -1,0 +1,12 @@
+{
+  "name": "discord-online-247",
+  "version": "1.0.0",
+  "description": "Treo acc discord online 24/7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^13.11.1"
+  }
+}
